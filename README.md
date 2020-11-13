@@ -11,7 +11,7 @@ https://github.com/saymon83/api-restful-demo/
 ### User Registration
 
 
-User registration and location with the evaluation.
+User registration and place with the evaluation.
 
 #### URL
 

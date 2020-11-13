@@ -10,7 +10,7 @@ https://github.com/saymon83/api-restful-demo/
 
 ### User Registration
 
-Registers a new user and returns its access token.
+Registro de Usuário e local com avaliação.
 
 #### URL
 
@@ -94,8 +94,8 @@ OR
     }
 
 ### User Authentication
+Valida as credencias e retorna um token.
 
-Validates user credentials and returns its access token.
 
 #### URL
 
@@ -146,7 +146,7 @@ OR
 
 ### User Details
 
-Returns user details.
+Detalhes do retorno.
 
 #### URL
 

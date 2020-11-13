@@ -10,7 +10,7 @@ https://github.com/saymon83/api-restful-demo/
 
 ### User Registration
 
-Registro de Usuário e local com avaliação.
+Registro de Usuário e local com a avaliação.
 
 #### URL
 

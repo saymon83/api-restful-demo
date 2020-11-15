@@ -163,7 +163,7 @@ Return details.
 ###### Code: 200 OK
 
 ###### Content:
-
+```
    {
     "firstName": "Bruno",
     "lastName": "Silva",
@@ -192,6 +192,7 @@ Return details.
     "created_at": "2020-11-13T18:32:56.223+0000",
     "last_login": "2020-11-13T18:38:05.380+0000"
 }
+```
 
 #### Error Response:
 

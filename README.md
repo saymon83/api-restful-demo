@@ -22,7 +22,7 @@ User registration and place with the evaluation.
   `POST`
 
 #### Data Params:
-"
+'''
 {
   "firstName": "Bruno",
   "lastName": "Silva",
@@ -50,7 +50,7 @@ User registration and place with the evaluation.
     }
   ]
 }
-"
+'''
 #### Success Response:
 
 ###### Code: 200 OK

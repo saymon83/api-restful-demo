@@ -22,8 +22,8 @@ User registration and place with the evaluation.
   `POST`
 
 #### Data Params:
-
-    {
+"
+{
   "firstName": "Bruno",
   "lastName": "Silva",
   "email": "3bruno@world.com",
@@ -50,7 +50,7 @@ User registration and place with the evaluation.
     }
   ]
 }
-
+"
 #### Success Response:
 
 ###### Code: 200 OK

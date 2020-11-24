@@ -1,4 +1,4 @@
-# ptg-restful-login
+# api-restful
 
 API RESTful for user authentication using Java, Spring and JWT.
 
@@ -22,7 +22,7 @@ User registration and place with the evaluation.
   `POST`
 
 #### Data Params:
-```javascript
+```
 {
   "firstName": "Bruno",
   "lastName": "Silva",

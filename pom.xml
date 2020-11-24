@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.demoapp</groupId>
-	<artifactId>ptg-restful-login</artifactId>
+	<artifactId>api-restful-demo</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>ptg-restful-login</name>
+	<name>api-restful-demo</name>
 	<description>API RESTful for user authentication using Java, Spring and JWT</description>
 
 	<properties>
